@@ -1,0 +1,12 @@
+body{
+    font-family: Univers, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.site-heading-lower{
+    font-family: 'Comic Sans MS'
+}
+.mb-3{
+    font-family: 'Comic Sans MS'
+}
+#mainNav{
+    background-color: rgba(0, 0, 255, 0.595);
+}
